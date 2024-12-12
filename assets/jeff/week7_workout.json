@@ -1,0 +1,285 @@
+{
+    "Week 7": [
+        {
+            "Workout": "Lower #1",
+            "Exercises": [
+                {
+                    "Exercise": "Back Squat",
+                    "Warmup Sets": 3,
+                    "Working Sets": 4,
+                    "Reps/Duration": "4",
+                    "RPE/%": "80%",
+                    "Rest": "3-4 min",
+                    "Notes": "Sit back and down, 15\u00b0 toe flare, drive your knees out laterally"
+                },
+                {
+                    "Exercise": "Barbell Hip Thrust",
+                    "Warmup Sets": 2,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "Squeeze your glutes at the top"
+                },
+                {
+                    "Exercise": "Knee-Banded Leg Press",
+                    "Warmup Sets": 2,
+                    "Working Sets": 3,
+                    "Reps/Duration": "20",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "Keep your knees out"
+                },
+                {
+                    "Exercise": "Sliding Leg Curl",
+                    "Warmup Sets": 0,
+                    "Working Sets": 2,
+                    "Reps/Duration": "15",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Flex your hamstrings"
+                },
+                {
+                    "Exercise": "Dumbbell Walking Lunge",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "15 steps per leg"
+                },
+                {
+                    "Exercise": "Standing Calf Raise",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Press onto your toes"
+                },
+                {
+                    "Exercise": "Plank",
+                    "Warmup Sets": 0,
+                    "Working Sets": 4,
+                    "Reps/Duration": ":30",
+                    "RPE/%": "7",
+                    "Rest": "1-2 min",
+                    "Notes": "Flex your abs"
+                }
+            ]
+        },
+        {
+            "Workout": "Upper #1",
+            "Exercises": [
+                {
+                    "Exercise": "Barbell Bench Press",
+                    "Warmup Sets": 3,
+                    "Working Sets": 4,
+                    "Reps/Duration": "6",
+                    "RPE/%": "75%",
+                    "Rest": "2-3 min",
+                    "Notes": "Elbows at a 45\u00b0 angle. Squeeze your shoulder blades and stay firm on the bench"
+                },
+                {
+                    "Exercise": "Supinated Lat Pulldown",
+                    "Warmup Sets": 2,
+                    "Working Sets": 3,
+                    "Reps/Duration": "12",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "Underhand grip, pull your elbows against your sides"
+                },
+                {
+                    "Exercise": "Barbell Overhead Press",
+                    "Warmup Sets": 2,
+                    "Working Sets": 3,
+                    "Reps/Duration": "6",
+                    "RPE/%": "7",
+                    "Rest": "2-3 min",
+                    "Notes": "Squeeze your glutes to keep your torso upright"
+                },
+                {
+                    "Exercise": "Machine High Row",
+                    "Warmup Sets": 0,
+                    "Working Sets": 2,
+                    "Reps/Duration": "12",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "Stretch your lats at the top"
+                },
+                {
+                    "Exercise": "Push-Up",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "AMRAP",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Squeeze your pecs"
+                },
+                {
+                    "Exercise": "Eccentric-Overloaded Rope Overhead Triceps Extension",
+                    "Warmup Sets": 1,
+                    "Working Sets": 4,
+                    "Reps/Duration": "10",
+                    "RPE/%": "9",
+                    "Rest": "1-2 min",
+                    "Notes": "Use your non-working arm to assist with the concentric"
+                },
+                {
+                    "Exercise": "Upper Body Weak Point 1",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15-20",
+                    "RPE/%": "9",
+                    "Rest": "1-2 min",
+                    "Notes": "Focus on mind-muscle connection"
+                }
+            ]
+        },
+        {
+            "Workout": "Lower #2",
+            "Exercises": [
+                {
+                    "Exercise": "Deadlift",
+                    "Warmup Sets": 3,
+                    "Working Sets": 2,
+                    "Reps/Duration": "5",
+                    "RPE/%": "85%",
+                    "Rest": "3-5 min",
+                    "Notes": "Brace your lats, chest tall, hips high, pull the slack out of the bar prior to moving it off the ground"
+                },
+                {
+                    "Exercise": "Back Squat",
+                    "Warmup Sets": 3,
+                    "Working Sets": 3,
+                    "Reps/Duration": "8",
+                    "RPE/%": "75%",
+                    "Rest": "3-4 min",
+                    "Notes": "Sit back and down, 15\u00b0 toe flare, drive your knees out laterally"
+                },
+                {
+                    "Exercise": "Dumbbell Step-Up",
+                    "Warmup Sets": 2,
+                    "Working Sets": 3,
+                    "Reps/Duration": "12",
+                    "RPE/%": "9",
+                    "Rest": "0 min",
+                    "Notes": "Set the box to ~parallel"
+                },
+                {
+                    "Exercise": "Reverse Hyper",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15",
+                    "RPE/%": "9",
+                    "Rest": "1-2 min",
+                    "Notes": "Focus on squeezing your glutes"
+                },
+                {
+                    "Exercise": "Single-Leg Leg Extension",
+                    "Warmup Sets": 0,
+                    "Working Sets": 2,
+                    "Reps/Duration": "12",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "12 reps each leg"
+                },
+                {
+                    "Exercise": "Cable Standing Hip Abduction",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Squeeze your glutes"
+                },
+                {
+                    "Exercise": "Lower Body Weak Point 1",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15-20",
+                    "RPE/%": "9",
+                    "Rest": "1-2 min",
+                    "Notes": "Focus on mind-muscle connection"
+                }
+            ]
+        },
+        {
+            "Workout": "Upper #2",
+            "Exercises": [
+                {
+                    "Exercise": "Wide-Grip Pull-Up",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "6",
+                    "RPE/%": "7",
+                    "Rest": "2-3 min",
+                    "Notes": "Pull with your chest to the bar"
+                },
+                {
+                    "Exercise": "Barbell Incline Press",
+                    "Warmup Sets": 2,
+                    "Working Sets": 4,
+                    "Reps/Duration": "8",
+                    "RPE/%": "7-8",
+                    "Rest": "2-3 min",
+                    "Notes": "Keep your elbows out"
+                },
+                {
+                    "Exercise": "Barbell Bent Over Row",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "8",
+                    "Rest": "2-3 min",
+                    "Notes": "Pull to your upper abs"
+                },
+                {
+                    "Exercise": "Barbell Floor Press",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "7",
+                    "Rest": "2-3 min",
+                    "Notes": "Focus on squeezing your chest"
+                },
+                {
+                    "Exercise": "Band Pull-Apart",
+                    "Warmup Sets": 0,
+                    "Working Sets": 2,
+                    "Reps/Duration": "30",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Squeeze your shoulder blades together"
+                },
+                {
+                    "Exercise": "Arnold Press",
+                    "Warmup Sets": 1,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "Start with your elbows in front of you and palms facing in. Rotate the dumbbells so that your palms face forward as you press"
+                },
+                {
+                    "Exercise": "Eccentric-Accentuated Hammer Curl",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "10",
+                    "RPE/%": "8",
+                    "Rest": "1-2 min",
+                    "Notes": "3-second lowering phase"
+                },
+                {
+                    "Exercise": "Upper Body Weak Point 1",
+                    "Warmup Sets": 0,
+                    "Working Sets": 3,
+                    "Reps/Duration": "15-20",
+                    "RPE/%": "9",
+                    "Rest": "1-2 min",
+                    "Notes": "Focus on mind-muscle connection"
+                }
+            ]
+        }
+    ]
+}

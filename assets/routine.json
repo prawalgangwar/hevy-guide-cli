@@ -1,0 +1,422 @@
+{
+    "Day 1": {
+        "name": "Upper Body Strength + Core Stability",
+        "exercises": [
+            {
+                "category": "Chest",
+                "name": "Bench Press (Barbell)",
+                "id": "79D0BB3A",
+                "sets": 4,
+                "reps": 6
+            },
+            {
+                "category": "Back",
+                "name": "Pull Up (Weighted)",
+                "id": "729237D1",
+                "sets": 4,
+                "reps": 6
+            },
+            {
+                "category": "Shoulders",
+                "name": "Overhead Press (Barbell)",
+                "id": "7B8D84E8",
+                "sets": 4,
+                "reps": 6
+            },
+            {
+                "category": "Upper Traps",
+                "name": "Shrug (Barbell)",
+                "id": "0B841777",
+                "sets": 3,
+                "reps": 10
+            },
+            {
+                "category": "Core Stability",
+                "name": "Plank",
+                "id": "C6C9B8A0",
+                "sets": 3,
+                "duration": "45 seconds"
+            },
+            {
+                "category": "Core Stability",
+                "name": "Side Plank",
+                "id": "E3EDA509",
+                "sets": 3,
+                "duration": "45 seconds"
+            },
+            {
+                "category": "Forearms",
+                "name": "Farmers Walk",
+                "id": "50C613D0",
+                "sets": 3,
+                "duration": "60 seconds"
+            },
+            {
+                "category": "Rotator Cuff Activation",
+                "name": "Band Pullaparts",
+                "id": "E8D86EE8",
+                "sets": 3,
+                "reps": 15
+            }
+        ]
+    },
+    "Day 2": {
+        "name": "Lower Body Strength + Mobility",
+        "exercises": [
+            {
+                "category": "Quads",
+                "name": "Squat (Barbell)",
+                "id": "D04AC939",
+                "sets": 4,
+                "reps": 6
+            },
+            {
+                "category": "Hamstrings",
+                "name": "Romanian Deadlift (Barbell)",
+                "id": "2B4B7310",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "category": "Glutes",
+                "name": "Hip Thrust (Barbell)",
+                "id": "D57C2EC7",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "category": "Calves",
+                "name": "Standing Calf Raise",
+                "id": "06745E58",
+                "sets": 4,
+                "reps": 15
+            },
+            {
+                "category": "Adductors/Abductors",
+                "name": "Lateral Band Walks",
+                "id": "EC02979E",
+                "sets": 3,
+                "reps": "15 steps each side"
+            },
+            {
+                "category": "Mobility Work",
+                "name": "Stretching",
+                "id": "527DA061",
+                "duration": "15 minutes",
+                "description": "Dynamic Stretching and Hip Openers"
+            },
+            {
+                "category": "Tibialis Anterior",
+                "note": "\"Toe Raises\" not found in the list."
+            }
+        ]
+    },
+    "Day 3": {
+        "name": "Plyometrics + Agility + Core",
+        "exercises": [
+            {
+                "category": "Plyometrics",
+                "name": "Box Jump",
+                "id": "56092DD1",
+                "sets": 4,
+                "reps": 8
+            },
+            {
+                "category": "Agility Drills",
+                "name": "Ladder Drills and Cone Drills",
+                "id": "893713de-b4ab-4aa2-8b41-819d2ed5bb17",
+                "duration": "15 minutes"
+            },
+            {
+                "category": "Functional Movement",
+                "name": "Ball Slams",
+                "id": "F51D9080",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Core/Anti-Rotation",
+                "name": "Cable Core Palloff Press",
+                "id": "CC55119B",
+                "sets": 3,
+                "reps": "12 each side"
+            },
+            {
+                "category": "Core Stabilizers",
+                "name": "Dead Bug",
+                "id": "BD0AD077",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Flexibility",
+                "name": "Static Stretching for Lower Body",
+                "id": "527DA061",
+                "duration": "10 minutes"
+            }
+        ]
+    },
+    "Day 4": {
+        "name": "Rest or Active Recovery",
+        "activities": [
+            {
+                "name": "Walking",
+                "id": "33EDD7DB"
+            },
+            {
+                "name": "Cycling",
+                "id": "D8F7F851"
+            },
+            {
+                "name": "Yoga",
+                "id": "8C9D2928"
+            },
+            {
+                "name": "Mobility Exercises"
+            }
+        ],
+        "flexibility": {
+            "name": "Stretching",
+            "id": "527DA061",
+            "duration": "20 minutes",
+            "description": "Full-body stretching routine"
+        }
+    },
+    "Day 5": {
+        "name": "Upper Body Hypertrophy + Rotator Cuff + Neck",
+        "exercises": [
+            {
+                "category": "Chest",
+                "name": "Incline Bench Press (Dumbbell)",
+                "id": "07B38369",
+                "sets": 4,
+                "reps": 10
+            },
+            {
+                "category": "Back",
+                "name": "Seated Cable Row - V Grip (Cable)",
+                "id": "0393F233",
+                "sets": 4,
+                "reps": 10
+            },
+            {
+                "category": "Shoulders",
+                "name": "Lateral Raise (Dumbbell)",
+                "id": "422B08F1",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Shoulders",
+                "name": "Rear Delt Reverse Fly (Dumbbell)",
+                "id": "E5988A0A",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Biceps",
+                "name": "Hammer Curl (Dumbbell)",
+                "id": "7E3BC8B6",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Triceps",
+                "name": "Skullcrusher (Dumbbell)",
+                "id": "68F8A292",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Rotator Cuff",
+                "name": "External Rotations with Band",
+                "id": "bb0d5bd6-b8bd-41a2-94cd-b0e076ccd151",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Rotator Cuff",
+                "name": "Internal Rotations with Band",
+                "id": "ca1b7528-c65a-4fb9-ab45-0e5d453e91ba",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Neck",
+                "name": "Lying Neck Curls",
+                "id": "22FEDCA4",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Neck",
+                "name": "Lying Neck Extension",
+                "id": "0910BD28",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Lower Traps/Scapular Stabilizers",
+                "name": "Chest Supported Y Raise (Dumbbell)",
+                "id": "F21D5693",
+                "sets": 3,
+                "reps": 12
+            }
+        ]
+    },
+    "Day 6": {
+        "name": "Lower Body Hypertrophy + Adductors/Abductors",
+        "exercises": [
+            {
+                "category": "Quads",
+                "name": "Leg Press (Machine)",
+                "id": "0482DA98",
+                "sets": 4,
+                "reps": 10
+            },
+            {
+                "category": "Hamstrings",
+                "name": "Lying Leg Curl (Machine)",
+                "id": "B8127AD1",
+                "sets": 4,
+                "reps": 10
+            },
+            {
+                "category": "Glutes",
+                "name": "Bulgarian Split Squat",
+                "id": "B5D3A742",
+                "sets": 3,
+                "reps": "10 each leg"
+            },
+            {
+                "category": "Calves",
+                "name": "Seated Calf Raise",
+                "id": "062AB91A",
+                "sets": 4,
+                "reps": 15
+            },
+            {
+                "category": "Adductors",
+                "name": "Hip Adduction",
+                "id": "8BEBFED6",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Abductors",
+                "name": "Hip Abduction",
+                "id": "F4B4C6EE",
+                "sets": 3,
+                "reps": 12
+            },
+            {
+                "category": "Balance/Stability",
+                "name": "Single Leg Romanian Deadlift (Dumbbell)",
+                "id": "937292AB",
+                "sets": 3,
+                "reps": "10 each leg"
+            },
+            {
+                "category": "Mobility Work",
+                "name": "Stretching",
+                "id": "527DA061",
+                "duration": "10 minutes",
+                "description": "Dynamic Stretches for Lower Body"
+            }
+        ]
+    },
+    "Day 7": {
+        "name": "Functional Training + Cardiovascular Endurance",
+        "exercises": [
+            {
+                "category": "Power Movements",
+                "name": "Kettlebell Swing",
+                "id": "F8A0FCCA",
+                "sets": 4,
+                "reps": 12
+            },
+            {
+                "category": "Functional Movements",
+                "name": "Sled Push",
+                "id": "7757171F",
+                "sets": 4,
+                "distance": "30 meters"
+            },
+            {
+                "category": "Functional Movements",
+                "name": "Battle Ropes",
+                "id": "084A67CA",
+                "sets": 3,
+                "duration": "60 seconds"
+            },
+            {
+                "category": "Core/Obliques",
+                "name": "Russian Twist (Bodyweight)",
+                "id": "BB83BDDE",
+                "sets": 3,
+                "reps": "15 each side"
+            },
+            {
+                "category": "Forearms",
+                "name": "Seated Palms Up Wrist Curl",
+                "id": "1006DF48",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Forearms",
+                "name": "Reverse Curl (Barbell)",
+                "id": "112FC6B7",
+                "sets": 3,
+                "reps": 15
+            },
+            {
+                "category": "Cardiovascular Endurance",
+                "name": "Running",
+                "id": "AC1BB830",
+                "duration": "30 minutes"
+            },
+            {
+                "category": "Cardiovascular Endurance",
+                "name": "Cycling",
+                "id": "D8F7F851",
+                "duration": "30 minutes"
+            },
+            {
+                "category": "Cardiovascular Endurance",
+                "name": "Rowing Machine",
+                "id": "0222DB42",
+                "duration": "30 minutes"
+            },
+            {
+                "category": "Flexibility",
+                "name": "Stretching",
+                "id": "527DA061",
+                "duration": "15 minutes",
+                "description": "Full-body static stretching"
+            }
+        ]
+    },
+    "Day 8": {
+        "name": "Rest or Active Recovery",
+        "activities": [
+            {
+                "name": "Yoga",
+                "id": "8C9D2928"
+            },
+            {
+                "name": "Stretching",
+                "id": "527DA061"
+            },
+            {
+                "name": "Walking",
+                "id": "33EDD7DB"
+            }
+        ],
+        "recoveryTechniques": [
+            {
+                "note": "\"Foam rolling or massage\" not found in the list."
+            }
+        ]
+    }
+}

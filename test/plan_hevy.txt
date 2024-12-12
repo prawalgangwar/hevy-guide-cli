@@ -1,0 +1,160 @@
+**Comprehensive Muscle-Building & Athletic Performance Plan (Rewritten with Exercises from the List, Including IDs)**
+
+---
+
+### **Week Structure:**
+
+- **Day 1:** Upper Body Strength + Core Stability
+- **Day 2:** Lower Body Strength + Mobility
+- **Day 3:** Plyometrics + Agility + Core
+- - **Day 4:** Rest or Active Recovery
+- **Day 5:** Upper Body Hypertrophy + Rotator Cuff + Neck
+- **Day 6:** Lower Body Hypertrophy + Adductors/Abductors
+- **Day 7:** Functional Training + Cardiovascular Endurance
+- **Day 8:** Rest or Active Recovery
+- **Repeat Cycle**
+
+---
+
+### **Day 1: Upper Body Strength + Core Stability**
+
+- **Chest:**
+  - **Bench Press (Barbell)** (`79D0BB3A`) – 4 sets x 6 reps
+- **Back:**
+  - **Pull Up (Weighted)** (`729237D1`) – 4 sets x 6 reps
+- **Shoulders:**
+  - **Overhead Press (Barbell)** (`7B8D84E8`) – 4 sets x 6 reps
+- **Upper Traps:**
+  - **Shrug (Barbell)** (`0B841777`) – 3 sets x 10 reps
+- **Core Stability:**
+  - **Plank** (`C6C9B8A0`) – 3 sets x 45 seconds
+  - **Side Plank** (`E3EDA509`) – 3 sets x 45 seconds
+- **Forearms:**
+  - **Farmers Walk** (`50C613D0`) – 3 sets x 60 seconds
+- **Rotator Cuff Activation:**
+  - **Band Pullaparts** (`E8D86EE8`) – 3 sets x 15 reps
+
+---
+
+### **Day 2: Lower Body Strength + Mobility**
+
+- **Quads:**
+  - **Squat (Barbell)** (`D04AC939`) – 4 sets x 6 reps
+- **Hamstrings:**
+  - **Romanian Deadlift (Barbell)** (`2B4B7310`) – 4 sets x 8 reps
+- **Glutes:**
+  - **Hip Thrust (Barbell)** (`D57C2EC7`) – 4 sets x 8 reps
+- **Calves:**
+  - **Standing Calf Raise** (`06745E58`) – 4 sets x 15 reps
+- **Adductors/Abductors:**
+  - **Lateral Band Walks** (`EC02979E`) – 3 sets x 15 steps each side
+- **Mobility Work:**
+  - **Stretching** (`527DA061`) (Dynamic Stretching and Hip Openers) – 15 minutes
+- **Tibialis Anterior:**
+  - *Note: "Toe Raises" not found in the list.*
+
+---
+
+### **Day 3: Plyometrics + Agility + Core**
+
+- **Plyometrics:**
+  - **Box Jump** (`56092DD1`) – 4 sets x 8 reps
+- **Agility Drills:**
+  - *Note: "Ladder Drills and Cone Drills" not found in the list.*
+- **Functional Movement:**
+  - **Ball Slams** (`F51D9080`) – 3 sets x 12 reps
+- **Core/Anti-Rotation:**
+  - **Cable Core Palloff Press** (`CC55119B`) – 3 sets x 12 reps each side
+- **Core Stabilizers:**
+  - **Dead Bug** (`D8911FC4`) – 3 sets x 15 reps
+- **Flexibility:**
+  - **Stretching** (`527DA061`) (Static Stretching for Lower Body) – 10 minutes
+
+---
+
+### **Day 4: Rest or Active Recovery**
+
+- **Activities:**
+  - **Walking** (`33EDD7DB`), **Cycling** (`D8F7F851`), **Yoga** (`8C9D2928`), or mobility exercises
+- **Flexibility:**
+  - **Stretching** (`527DA061`) (Full-body stretching routine) – 20 minutes
+
+---
+
+### **Day 5: Upper Body Hypertrophy + Rotator Cuff + Neck**
+
+- **Chest:**
+  - **Incline Bench Press (Dumbbell)** (`07B38369`) – 4 sets x 10 reps
+- **Back:**
+  - **Seated Cable Row - V Grip (Cable)** (`0393F233`) – 4 sets x 10 reps
+- **Shoulders:**
+  - **Lateral Raise (Dumbbell)** (`422B08F1`) – 3 sets x 12 reps
+  - **Rear Delt Reverse Fly (Dumbbell)** (`E5988A0A`) – 3 sets x 12 reps
+- **Biceps:**
+  - **Hammer Curl (Dumbbell)** (`7E3BC8B6`) – 3 sets x 12 reps
+- **Triceps:**
+  - **Skullcrusher (Dumbbell)** (`68F8A292`) – 3 sets x 12 reps
+- **Rotator Cuff:**
+  - *Note: "External Rotations with Band" and "Internal Rotations with Band" not found in the list.*
+- **Neck:**
+  - **Lying Neck Curls** (`22FEDCA4`) – 3 sets x 15 reps
+  - **Lying Neck Extension** (`0910BD28`) – 3 sets x 15 reps
+- **Lower Traps/Scapular Stabilizers:**
+  - **Chest Supported Y Raise (Dumbbell)** (`F21D5693`) – 3 sets x 12 reps
+
+---
+
+### **Day 6: Lower Body Hypertrophy + Adductors/Abductors**
+
+- **Quads:**
+  - **Leg Press (Machine)** (`C7973E0E`) – 4 sets x 10 reps
+- **Hamstrings:**
+  - **Lying Leg Curl (Machine)** (`B8127AD1`) – 4 sets x 10 reps
+- **Glutes:**
+  - **Bulgarian Split Squat** (`B5D3A742`) – 3 sets x 10 reps each leg
+- **Calves:**
+  - **Seated Calf Raise** (`062AB91A`) – 4 sets x 15 reps
+- **Adductors:**
+  - *Note: "Cable Adductions" not found in the list.*
+- **Balance/Stability:**
+  - **Single Leg Romanian Deadlift (Dumbbell)** (`937292AB`) – 3 sets x 10 reps each leg
+- **Mobility Work:**
+  - **Stretching** (`527DA061`) (Dynamic Stretches for Lower Body) – 10 minutes
+
+---
+
+### **Day 7: Functional Training + Cardiovascular Endurance**
+
+- **Power Movements:**
+  - **Kettlebell Swing** (`F8A0FCCA`) – 4 sets x 12 reps
+- **Functional Movements:**
+  - **Sled Push** (`7757171F`) – 4 sets x 30 meters
+  - **Battle Ropes** (`084A67CA`) – 3 sets x 60 seconds
+- **Core/Obliques:**
+  - **Russian Twist (Bodyweight)** (`BB83BDDE`) – 3 sets x 15 reps each side
+- **Forearms:**
+  - **Seated Palms Up Wrist Curl** (`1006DF48`) – 3 sets x 15 reps
+  - **Reverse Curl (Barbell)** (`112FC6B7`) – 3 sets x 15 reps
+- **Cardiovascular Endurance:**
+  - **Running** (`AC1BB830`), **Cycling** (`D8F7F851`), or **Rowing Machine** (`0222DB42`) – 30 minutes
+- **Flexibility:**
+  - **Stretching** (`527DA061`) (Full-body static stretching) – 15 minutes
+
+---
+
+### **Day 8: Rest or Active Recovery**
+
+- **Activities:**
+  - **Yoga** (`8C9D2928`), **Stretching** (`527DA061`), or **Walking** (`33EDD7DB`)
+- **Recovery Techniques:**
+  - *Note: "Foam rolling or massage" not found in the list.*
+
+---
+
+**Notes:**
+
+- **Exercises not found in the provided list have been noted accordingly.**
+- **Substitutions have been made where appropriate to match exercises from the list.**
+- **For activities like mobility work and flexibility, general terms from the list such as** **Stretching** (`527DA061`) **have been used.**
+
+---

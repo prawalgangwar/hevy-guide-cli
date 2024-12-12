@@ -1,0 +1,41 @@
+{
+    "primary": [
+        "lats",
+        "forearms",
+        "neck",
+        "traps",
+        "upper_back",
+        "chest",
+        "other",
+        "abdominals",
+        "full_body",
+        "lower_back",
+        "triceps",
+        "shoulders",
+        "calves",
+        "quadriceps",
+        "cardio",
+        "biceps",
+        "glutes",
+        "hamstrings",
+        "adductors",
+        "abductors"
+    ],
+    "secondary": [
+        "quadriceps",
+        "lower_back",
+        "chest",
+        "lats",
+        "biceps",
+        "forearms",
+        "neck",
+        "triceps",
+        "abdominals",
+        "traps",
+        "shoulders",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "upper_back"
+    ]
+}

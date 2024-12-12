@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "hevy-guide-cli"
+version = "0.1.0"
+description = ""
+authors = ["Prawal Gangwar <prawal.gangwar@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "app" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+typer = "^0.13.0"
+requests = "^2.32.3"
+pydantic = "^2.9.2"
+
+[tool.poetry.scripts]
+hevy-guide-cli = 'app.main:app'
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
